@@ -1,6 +1,8 @@
 # logitx
 Estimate an autoregressive logit model with covariates Use logitx With (in) R Software
 
+https://www.youtube.com/watch?v=eMshbxPv8DQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
